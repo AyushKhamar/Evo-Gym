@@ -64,7 +64,7 @@ export const OurClasses = ({ setSelectedPage }: HomePageProps) => {
           }}
         >
           <div className="md:w-3/5">
-            <HeadingText>Our Classes</HeadingText>
+            <HeadingText>OUR CLASSES</HeadingText>
             <p className="py-5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum est
               error voluptas unde quos ipsum temporibus non ea optio sequi porro

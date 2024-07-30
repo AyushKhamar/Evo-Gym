@@ -37,6 +37,7 @@ const benefits: Array<BenefitType> = [
       "This is the description for the lorem ipsum component that we are having here",
   },
 ];
+
 export const Benefits = ({ setSelectedPage }: HomePageProps) => {
   return (
     <section id="benefits" className="mx-auto min-h-full w-5/6 py-20">
@@ -107,8 +108,8 @@ export const Benefits = ({ setSelectedPage }: HomePageProps) => {
               <div className="before:absolute before:-top-20 before:-left-20 before:z-[1] before:content-abstractwaves">
                 <div>
                   <HeadingText>
-                    Millions of Happy Members Getting{" "}
-                    <span className="text-primary-500">Fit!</span>
+                    MILLIONS OF HAPPY MEMBERS GETTING{" "}
+                    <span className="text-primary-500">FIT!</span>
                   </HeadingText>
                 </div>
               </div>
